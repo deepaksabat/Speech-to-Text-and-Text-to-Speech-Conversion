@@ -15,7 +15,9 @@ Python installed; Google Speech Recognition API installed; Active Internet Conne
 
 Download Python: https://www.python.org/downloads/
 
-Download Goolge SpeechRecognition: https://pypi.python.org/pypi/SpeechRecognition/
+Download Goolge SpeechRecognition: https://pypi.python.org/pypi/SpeechRecognition
+
+Download Avbin for video and audio decoding: http://avbin.github.io/AVbin/Download.html
 
                           OR
 Install using PIP: pip install SpeechRecognition
